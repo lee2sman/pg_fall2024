@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+  	<header>
+  		<a href="{{ site.baseurl }}/"><h1>Programming Games</h1></a>
+  	</header>
+  	<nav>
+	  <span class="class-list"><a href="{{ site.baseurl }}/about">about</a></span>
+  		{% for post in site.posts %}
+
+			  <span class="class-list"><a href="{{ site.baseurl }}{{ post.url }}">#{{ post.number }}</a></span>
+
+			{% endfor %}
+  	</nav>
+    <div id="index">
+      <div class="aboutImg" markdown="1">
+      <img src="{{ site.baseurl }}/assets/img/pico8.webp">
+      </div>
+    	<div id="about">
+      {{ content }}
+    	</div>
+      <div class="aboutImg2" markdown="1">
+      <img src="{{ site.baseurl }}/assets/img/folk.jpg">
+      </div>
+    </div>
+  </body>
+</html>
