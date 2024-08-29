@@ -11,6 +11,7 @@ Contact: lee.tusman@purchase.edu
 Class time: Wednesdays 3pm - 6:40pm  
 Classroom:  Natural Sciences 2027  
 Office hours: Mondays 11am - 1pm via Zoom (email to set up an appointment)  
+Office hours with our Learning Assistant Sacia (they/them): Tues 10am - 1pm, Thu 10am - 1pm (sacia.matthews@purchase.edu)  
 
 ## Required
 
