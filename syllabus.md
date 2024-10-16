@@ -148,7 +148,7 @@ I will give prompt and clear feedback to you on your progress in class at set po
 
 ### Dates
 
-Last day to withdraw from full-term courses: Friday October 30.
+Last day to withdraw from full-term courses: Friday October 28.
 
 Thanksgiving recess: Wednesday, November 27 - Sunday, December 1.
 
